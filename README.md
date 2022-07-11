@@ -5,7 +5,7 @@ Currently looking for a mentor or colaborations with someone/small group. Anythi
 
 Software development student at Abertay University Dundee.   
 <img src="https://github-readme-stats.vercel.app/api?username=lokenwow&theme=radical&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false"/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokenwow&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokenwow&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 My website: www.programminginpandemonium.com
 
