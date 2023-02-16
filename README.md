@@ -1,6 +1,6 @@
 ### Hi there My name is Ross Hamilton 👋
 
-Currently looking for a mentor or colaborations with someone/small group. Anything is welcome as i have little to no experience with most languages.   
+Currently looking for a mentor or colaborations with someone/small group. Anything is welcome as i have little to no experience in industry yet.  
 
 Software development student at Abertay University Dundee.   
    
