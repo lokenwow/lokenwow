@@ -11,3 +11,6 @@ Software development student at Abertay University Dundee.
 Credit for charts: https://github.com/anuraghazra/github-readme-stats
    
 My website: www.programminginpandemonium.com
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokenwow)](https://github.com/anuraghazra/github-readme-stats)
