@@ -11,8 +11,6 @@ Computing student at Abertay University Dundee.
 
 
 Credit for charts: https://github.com/anuraghazra/github-readme-stats
-   
-My website: www.programminginpandemonium.com
 
 <!-- Badges for later use
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
